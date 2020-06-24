@@ -11,3 +11,7 @@ Sample website with plenty of files for demos
 Some ipsum text
 
 ## Not sure if this is necessary
+
+More information
+
+This is the final edit
