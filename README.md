@@ -18,3 +18,7 @@ This is the final edit
 
 ### Copyright
 This isn't really real
+
+## How to Contribute
+
+Please fork this repository and then issue Pull Requests for review
