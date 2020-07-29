@@ -18,7 +18,7 @@ More information
 This is the final edit
 
 ### Copyright
-This isn't really real
+All rights reserved.
 
 ## How to Contribute
 
